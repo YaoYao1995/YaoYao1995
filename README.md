@@ -1,8 +1,5 @@
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://yaoyao1995.github.io/">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=30&pause=1000&color=5212FF&background=C0E6FFDD&center=true&vCenter=true&width=435&lines=%E7%95%A5%E6%9C%89%E5%A4%A9%E8%B5%8B%EF%BC%8C%E6%80%BB%E6%98%AF%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%9B%B4%E8%AE%A4%E7%9C%9F%E3%80%82)](https://git.io/typing-svg)
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=30&pause=1000&color=5212FF&background=C0E6FFDD&center=true&vCenter=true&width=435&lines=%E7%95%A5%E6%9C%89%E5%A4%A9%E8%B5%8B%EF%BC%8C%E6%80%BB%E6%98%AF%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%9B%B4%E8%AE%A4%E7%9C%9F%E3%80%82)](https://git.io/typing-svg)
 </h1>
 
 
