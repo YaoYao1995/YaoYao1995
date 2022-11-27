@@ -33,9 +33,6 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/YaoYao1995/YaoYao1995/base_metrics.svg" alt="base metrics"/></div>
-<br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
