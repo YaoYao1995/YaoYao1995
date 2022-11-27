@@ -69,22 +69,6 @@
   </tr>
 </table>
 
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/YaoYao1995/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/YaoYao1995/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-</table>
 
 
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/YaoYao1995/YaoYao1995/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-</div>
