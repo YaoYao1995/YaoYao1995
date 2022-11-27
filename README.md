@@ -142,5 +142,4 @@ No Activity Tracked This Week
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/YaoYao1995/YaoYao1995/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
