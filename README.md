@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=60&pause=1000&color=5212FF&background=C0E6FFDD&center=true&vCenter=true&width=820&height=120&lines=%E7%95%A5%E6%9C%89%E5%A4%A9%E8%B5%8B%EF%BC%8C%E6%80%BB%E6%98%AF%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%9B%B4%E8%AE%A4%E7%9C%9F%E3%80%82" alt="Typing SVG" /></a>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -30,9 +29,7 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YaoYao1995&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 
