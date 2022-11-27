@@ -21,10 +21,6 @@
 - 🙌 More informantion about me: [https://orcid.org/0000-0001-9887-4301](https://orcid.org/0000-0001-9887-4301)
 
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/YaoYao1995/YaoYao1995/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
